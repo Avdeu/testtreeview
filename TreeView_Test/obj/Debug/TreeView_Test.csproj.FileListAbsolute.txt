@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\TreeView_Test.csprojAssemblyReference.cache
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\App.g.cs
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\TreeView_Test_MarkupCompile.cache
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\bin\Debug\TreeView_Test.exe.config
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\bin\Debug\TreeView_Test.exe
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\bin\Debug\TreeView_Test.pdb
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\MainWindow.g.cs
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\TreeView_Test_MarkupCompile.lref
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\MainWindow.baml
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\TreeView_Test.g.resources
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\TreeView_Test.Properties.Resources.resources
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\TreeView_Test.csproj.GenerateResource.cache
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\TreeView_Test.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\TreeView_Test.exe
+C:\Users\haris\source\repos\TreeView_Test\TreeView_Test\obj\Debug\TreeView_Test.pdb
